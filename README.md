@@ -1,6 +1,6 @@
 # Gedik Podcast
 
-This is a test-case application.
+This is a test-case application built using React Native & Expo.
 
 ## Build
 
