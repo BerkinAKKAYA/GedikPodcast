@@ -4,7 +4,7 @@ This is a test-case application built using **React Native** & **Expo**.
 
 ## Build
 
-**FOR ANDROID:** run `expo build:android`\
+**FOR ANDROID:** run `expo build:android`
 **FOR IOS:** run `expo build:ios`
 
 ## Run
